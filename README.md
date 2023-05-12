@@ -3,12 +3,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=impablo0&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
 </p>
+
 ![](https://github-readme-stats.vercel.app/api?username=aikooo7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aikooo7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aikooo7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=aikooo7&icon=5&color=0)](https://visitcount.itsvg.in)
-
-
 
 ![footer](https://github.com/impablo0/impablo0/assets/132609298/999be41c-fff8-4036-adb0-009908570fd0)
 
