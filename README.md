@@ -6,8 +6,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=impablo0&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=impablo0&color=blueviolet" />
+</p>
 
-![](https://komarev.com/ghpvc/?username=impablo0&color=blueviolet)
 
 ![footer](https://github.com/impablo0/impablo0/assets/132609298/999be41c-fff8-4036-adb0-009908570fd0)
 
