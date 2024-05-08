@@ -9,9 +9,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=impablo0&color=blueviolet" />
 </p>
-<p align="center">
-  <img src="github.png"/>
-</p>
 
 ![footer](https://github.com/impablo0/impablo0/assets/132609298/999be41c-fff8-4036-adb0-009908570fd0)
 
